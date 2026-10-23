@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — release candidate
+## 0.1.0 — 2026-10-23 (public preview)
 
 - Simple mode with visual car selection, looks, finishes, built-in stickers, names and numbers, repeat stamping, paint erasing and photo/turntable export.
 - Advanced layers, material painting, editable text and patterns, SVG and image preparation, masks, shared colors and reusable artwork groups.
@@ -10,4 +10,4 @@
 - Public guides, the MIT License, offline checks and release-package auditing.
 - Tidy portable packaging: one top-level executable, a README and an App folder containing dependencies and notices.
 
-The independent-side Steam installer has passed build, package-reader and restoration checks. A live Steam driving test, VR model installation and a clean-PC test remain outstanding. This candidate is unsigned.
+The independent-side Steam installer has passed build, package-reader and restoration checks. A live Steam driving test, VR model installation and a clean-PC test remain outstanding. This preview is unsigned.

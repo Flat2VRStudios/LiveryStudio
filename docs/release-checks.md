@@ -1,6 +1,6 @@
 # 0.1.0 candidate checks
 
-Checked on Windows x64 on 23 October 2026. These are local results; the public CI workflow has been added but has not run on GitHub yet.
+Checked on Windows x64 on 23 October 2026. The table records local results. GitHub CI runs the portable, workflow, draft replacement and vehicle transaction suites, builds the image-codec harness and launcher, and checks dependencies. The image-codec harness did not complete on the hosted runner; its 14 runtime checks passed on the interactive Windows desktop.
 
 | Check | Result |
 | --- | --- |
@@ -22,6 +22,6 @@ The source audit checks credentials, private machine paths, generated/private di
 
 The shader preparation change was compared against the previously tested shader: CG text matched after trailing-whitespace normalization, and XML structure/attributes matched. The proprietary native tools were reused for this candidate rather than rebuilt from their original inputs.
 
-Old development records and recovery material were archived outside the repository before removal. Existing Git history still contains that material; use the clean source export for public import. MIT covers the original editor code and documentation, with separate third-party/game-content terms in [the notices](../THIRD_PARTY_NOTICES.md).
+Old development records and recovery material were archived before removal. The public repository starts with a clean source snapshot; original development history and old preview releases are retained in a separate private archive. MIT covers the original editor code and documentation, with separate third-party/game-content terms in [the notices](../THIRD_PARTY_NOTICES.md).
 
-Outstanding release-owner checks: confirm redistribution authorization for the exact proprietary bundle, run on a clean PC, sign the Windows build and complete live Steam driving validation. Independent-side VR model installation remains unverified. No repository visibility change or public release was performed by these checks.
+Outstanding validation: run on a clean PC, sign both Windows executables and complete live Steam driving validation. Independent-side VR model installation remains unverified. The [public preview release](https://github.com/Flat2VRStudios/LiveryStudio/releases/tag/v0.1.0) includes the tidy Windows ZIP, source and verification records. Third-party redistribution terms still apply to the supplied bundle.

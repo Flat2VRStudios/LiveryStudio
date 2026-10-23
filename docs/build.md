@@ -10,7 +10,7 @@ dotnet build LiveryStudio/Cli/LiveryStudio.Cli.csproj -c Release
 python scripts/audit-public.py
 ```
 
-The CI workflow also runs the headless workflow, draft replacement, image export and vehicle transaction harnesses in `WorkflowChecks`, `DraftChangeChecks`, `ImageFileChecks` and `VehicleChecks/LiveryStudio.VehicleRegressionChecks.csproj`. Supply a new `--workspace` directory to the vehicle regression runner. The native portable launcher is compiled with Visual Studio 2022 C++ tools; it has no game-source dependency.
+The CI workflow also runs the headless workflow, draft replacement and vehicle transaction harnesses in `WorkflowChecks`, `DraftChangeChecks` and `VehicleChecks/LiveryStudio.VehicleRegressionChecks.csproj`. Supply a new `--workspace` directory to the vehicle regression runner. It builds `ImageFileChecks`, whose WinRT storage and image-codec checks should be run from an interactive Windows desktop: hosted execution did not complete during release validation. The native portable launcher is compiled with Visual Studio 2022 C++ tools; it has no game-source dependency.
 
 Portable checks use synthetic geometry and temporary game-layout fixtures. They need no Steam account, installed game or proprietary SDK and do not install a mod or publish a Workshop item. Full GPU, all-car and worker checks require prepared assets and run without `--portable`.
 

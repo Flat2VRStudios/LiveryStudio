@@ -1,12 +1,12 @@
 # Preparing a release
 
-The current candidate is **0.1.0**. See [the recorded checks and remaining limits](release-checks.md). Keep the repository private until the release owner approves the source snapshot and binary distribution. Earlier commits and branches still contain archived development records and copied recovery material; cleaning the current tree does not remove history.
+The first public preview is **0.1.0**. See [the recorded checks and remaining limits](release-checks.md). The public repository starts from a clean source snapshot. Original development history and earlier preview releases remain in a separate private archive. For each future release, the release owner approves the source snapshot and binary distribution before publishing.
 
 1. Run the source audit, portable checks, full prepared-asset checks and `dotnet list LiveryStudio/App/LiveryStudio.App.csproj package --vulnerable --include-transitive`.
 2. Build to a fresh `publish-release` folder. Check the version, startup, existing-project reopening and normal closing.
 3. Confirm redistribution authorization and notices for the exact proprietary runtime/game bundle. Original editor code uses the MIT License.
 4. Build the native launcher and package with an explicit source revision. The package tool checks manifests and private/debug debris, creates SHA-256 inventories, extracts the ZIP and checks every file again. The ZIP has just `LiveryStudio.exe`, `README.md` and `App/` at the top level. Test the top-level launcher from the extracted package.
-5. Export source from a committed revision. The ZIP contains no `.git` directory or earlier history. Review it before creating a fresh public repository or approving a history replacement.
+5. Export source from the committed release revision. The ZIP contains no `.git` directory or earlier history. Include source and package verification records with the release.
 
 ```powershell
 ./scripts/run_build.ps1 -Project LiveryStudio/Native/Launcher.vcxproj -Action Build -Config Release -Platform x64
