@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net9.0-windows10.0.19041.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion><RootNamespace>LiveryStudio</RootNamespace><AssemblyName>LiveryStudio</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest><Platforms>x64</Platforms><PlatformTarget>x64</PlatformTarget>
+    <ApplicationIcon>Assets\LiveryStudio.ico</ApplicationIcon>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier><UseWinUI>true</UseWinUI><WindowsPackageType>None</WindowsPackageType>
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained><SelfContained>true</SelfContained>
+    <CodePage>65001</CodePage><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><EnableMsixTooling>true</EnableMsixTooling>
+  </PropertyGroup>
+  <PropertyGroup><VehicleRuntime Condition="'$(VehicleRuntime)' == ''">$(MSBuildThisFileDirectory)..\artifacts\vehicle-runtime</VehicleRuntime></PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(VehicleRuntime)\**\*" Exclude="$(VehicleRuntime)\**\*.log;$(VehicleRuntime)\**\*.pdb;$(VehicleRuntime)\**\*.ilk;$(VehicleRuntime)\manifest.json" Link="VehicleTools\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="..\..\examples\WidebodyExterior.obj" Link="Examples\WidebodyExterior.obj" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.260921001" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.4948" />
+    <ProjectReference Include="../Core/LiveryStudio.Core.csproj" />
+    <Content Include="Assets\**" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\artifacts\preview-assets\**\*" Link="Preview\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="..\artifacts\models\*.flsm" Link="Models\%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="..\artifacts\models\catalog.json" Link="Models\catalog.json" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="..\artifacts\native\LiveryPreview.dll" Link="LiveryPreview.dll" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="..\artifacts\workshop-runtime\**\*" Exclude="..\artifacts\workshop-runtime\**\*.log;..\artifacts\workshop-runtime\**\steam_appid.txt;..\artifacts\workshop-runtime\**\*.pdb;..\artifacts\workshop-runtime\**\*.lib;..\artifacts\workshop-runtime\**\*.exp" Link="Workshop\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+  <Target Name="ExcludeDebugSymbolsFromRelease" AfterTargets="ComputeFilesToPublish">
+    <ItemGroup>
+      <ResolvedFileToPublish Remove="@(ResolvedFileToPublish)" Condition="'%(ResolvedFileToPublish.Extension)' == '.pdb'" />
+    </ItemGroup>
+  </Target>
+</Project>

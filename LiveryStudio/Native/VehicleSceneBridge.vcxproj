@@ -1,0 +1,11 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+ <ItemGroup Label="ProjectConfigurations"><ProjectConfiguration Include="Release|x64"><Configuration>Release</Configuration><Platform>x64</Platform></ProjectConfiguration></ItemGroup>
+ <PropertyGroup Label="Globals"><ProjectGuid>{CFE1B2F1-9B6A-47D8-8A55-62431004CA98}</ProjectGuid><WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion></PropertyGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props"/>
+ <PropertyGroup Label="Configuration"><ConfigurationType>Application</ConfigurationType><PlatformToolset>v143</PlatformToolset><UseDebugLibraries>false</UseDebugLibraries></PropertyGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props"/>
+ <PropertyGroup><FbxRoot Condition="'$(FbxRoot)'==''">$(GameSourceRoot)\PlayAll\External\Win32\Current\PlayAll\External\FbxSdk.2020.3.2</FbxRoot><OutDir>$(ProjectDir)..\artifacts\vehicle-runtime\Bin\</OutDir><IntDir>$(ProjectDir)..\artifacts\native-obj\vehicle-bridge\</IntDir></PropertyGroup>
+ <ItemDefinitionGroup><ClCompile><Optimization>MaxSpeed</Optimization><RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary><LanguageStandard>stdcpp17</LanguageStandard><ExceptionHandling>Sync</ExceptionHandling><AdditionalIncludeDirectories>$(FbxRoot)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories><PreprocessorDefinitions>FBXSDK_SHARED;_CRT_SECURE_NO_WARNINGS;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions></ClCompile><Link><AdditionalLibraryDirectories>$(FbxRoot)\lib\vs2019\x64\release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories><AdditionalDependencies>libfbxsdk.lib;%(AdditionalDependencies)</AdditionalDependencies></Link></ItemDefinitionGroup>
+ <ItemGroup><ClCompile Include="VehicleSceneBridge.cpp"/></ItemGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
+</Project>

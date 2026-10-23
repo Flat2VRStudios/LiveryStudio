@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<play_all_asset>
+	<play_all_header type="Material">
+		<version major="1" minor="0" />
+	</play_all_header>
+	<play_all_settings />
+	<play_all_data>
+		<data platform="GENERIC">
+			<material name="BODY" effect="ASSETS:/EFFECTS/CARPAINT.PFX.XML">
+				<triggers>
+					<trigger name="Use DiffuseMap" value="true" />
+					<trigger name="Use NormalMap" value="true" />
+					<trigger name="Use AlphaTest" value="false" />
+				</triggers>
+				<params>
+					<param name="DiffuseMap" type="Texture2D" value="ASSETS:/DIFFUSE.PTX.XML" />
+					<param name="NormalMap" type="Texture2D" value="ASSETS:/NORMAL.PTX.XML" />
+					<param name="StructureMap" type="Texture2D" value="ASSETS:/STRUCTURE.PTX.XML" />
+					<param name="DirtMap" type="Texture2D" value="ASSETS:/DIRTMAP.PTX.XML" />
+					<param name="DirtStructureMap" type="Texture2D" value="ASSETS:/GRAPH/CARS/COMMON/TEXTURES/BODY_DIRT_IOR_FAKE.PTX.XML" />
+					<param name="DamageMap" type="Texture2D" value="ASSETS:/GRAPH/CARS/COMMON/TEXTURES/BODY_DAMAGE_DIFF_FAKE.PTX.XML" />
+					<param name="DamageNormalMap" type="Texture2D" value="ASSETS:/GRAPH/CARS/COMMON/TEXTURES/BODY_DAMAGE_NRM_FAKE.PTX.XML" />
+					<param name="DamageRoughnessMetalness" type="Float4" value="DAMAGE_GLOSS_VALUE; DAMAGE_METALNESS_VALUE; 0; 0" />
+					<param name="TileUV" type="Float4" value="1.0000;1.0000;0.0000;0.0000" />
+					<param name="ColorParam" type="Float4" value="0.000000; 0.000000; 0.000000; 0.000000" />
+					<param name="DiffuseColor1" type="Float4" value="COLOR1_VALUE" />
+					<param name="DiffuseColor2" type="Float4" value="COLOR2_VALUE" />
+					<param name="Gloss1" type="Float" value="GLOSS1_VALUE" />
+					<param name="Gloss2" type="Float" value="GLOSS2_VALUE" />
+					<param name="Metalness" type="Float" value="METALNESS_VALUE" />
+					<param name="ClearCoat" type="Float" value="CLEARCOAT_VALUE" />
+				</params>
+			</material>
+		</data>
+	</play_all_data>
+</play_all_asset>

@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net9.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><EmbeddedResource Include="Templates/*" /></ItemGroup>
+  <ItemGroup><InternalsVisibleTo Include="LiveryStudio.Tests" /></ItemGroup>
+  <ItemGroup><PackageReference Include="StbImageSharp" Version="2.30.16" /></ItemGroup>
+  <ItemGroup><PackageReference Include="System.Drawing.Common" Version="9.0.20" /></ItemGroup>
+</Project>

@@ -1,0 +1,218 @@
+[
+  {
+    "Index": 0,
+    "Name": "Grosse pointe",
+    "Class": "DERBY",
+    "Car": "BUICK",
+    "Template": "Grosse_Pointe",
+    "Category": "Derby"
+  },
+  {
+    "Index": 1,
+    "Name": "Derby cookie",
+    "Class": "DERBY",
+    "Car": "BEETLE",
+    "Template": "Derby_Cookie",
+    "Category": "Derby"
+  },
+  {
+    "Index": 2,
+    "Name": "Fedora X7",
+    "Class": "DERBY",
+    "Car": "CHEVY",
+    "Template": "Fedora_X7",
+    "Category": "Derby"
+  },
+  {
+    "Index": 3,
+    "Name": "Shoven Doop",
+    "Class": "DERBY",
+    "Car": "JEEP",
+    "Template": "ShovenDoop",
+    "Category": "Derby"
+  },
+  {
+    "Index": 4,
+    "Name": "Quaterback",
+    "Class": "DERBY",
+    "Car": "FURD_G850",
+    "Template": "QuarterBack",
+    "Category": "Derby"
+  },
+  {
+    "Index": 5,
+    "Name": "Gov'Nor 500",
+    "Class": "DERBY",
+    "Car": "VIPER",
+    "Template": "Govner500",
+    "Category": "Derby"
+  },
+  {
+    "Index": 6,
+    "Name": "Preacher",
+    "Class": "DERBY",
+    "Car": "PHAETON",
+    "Template": "Preacher",
+    "Category": "Derby"
+  },
+  {
+    "Index": 7,
+    "Name": "Anger M200",
+    "Class": "DERBY",
+    "Car": "TUSTANG_V8",
+    "Template": "Anger_M200",
+    "Category": "Derby"
+  },
+  {
+    "Index": 8,
+    "Name": "Ice Machine",
+    "Class": "DERBY",
+    "Car": "ICECREAM_VAN",
+    "Template": "IceMachine",
+    "Category": "Derby"
+  },
+  {
+    "Index": 9,
+    "Name": "Suburbia TJ",
+    "Class": "CLASSIC",
+    "Car": "BUICK",
+    "Template": "Suburbia_TJ",
+    "Category": "Classic"
+  },
+  {
+    "Index": 10,
+    "Name": "Cookie",
+    "Class": "CLASSIC",
+    "Car": "BEETLE",
+    "Template": "Cookie",
+    "Category": "Classic"
+  },
+  {
+    "Index": 11,
+    "Name": "OL'SweetHeart",
+    "Class": "CLASSIC",
+    "Car": "CHEVY",
+    "Template": "SweetHeart",
+    "Category": "Classic"
+  },
+  {
+    "Index": 12,
+    "Name": "Deep",
+    "Class": "CLASSIC",
+    "Car": "JEEP",
+    "Template": "Deep",
+    "Category": "Classic"
+  },
+  {
+    "Index": 13,
+    "Name": "Alpha R477",
+    "Class": "CLASSIC",
+    "Car": "FURD_G850",
+    "Template": "Alpha_R477",
+    "Category": "Classic"
+  },
+  {
+    "Index": 14,
+    "Name": "Scoundrel \"Zen\"",
+    "Class": "CLASSIC",
+    "Car": "VIPER",
+    "Template": "Scoundrel_ZEN",
+    "Category": "Classic"
+  },
+  {
+    "Index": 15,
+    "Name": "BlackWood Turbo",
+    "Class": "CLASSIC",
+    "Car": "PHAETON",
+    "Template": "BlackWood_Turbo",
+    "Category": "Classic"
+  },
+  {
+    "Index": 16,
+    "Name": "Rage 72",
+    "Class": "CLASSIC",
+    "Car": "TUSTANG_V8",
+    "Template": "Rage_72",
+    "Category": "Classic"
+  },
+  {
+    "Index": 17,
+    "Name": "Parole 4000",
+    "Class": "CLASSIC",
+    "Car": "ICECREAM_VAN",
+    "Template": "Parole_4000",
+    "Category": "Classic"
+  },
+  {
+    "Index": 18,
+    "Name": "Big House '52",
+    "Class": "ALLSTARS",
+    "Car": "BUICK_EVO",
+    "Template": "BigHouse_52",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 19,
+    "Name": "Cookie OffRoad",
+    "Class": "ALLSTARS",
+    "Car": "BEETLE_EVO",
+    "Template": "Cookie_OffRoad",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 20,
+    "Name": "Juggernaut 5",
+    "Class": "ALLSTARS",
+    "Car": "CHEVY_EVO",
+    "Template": "Juggernaut5",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 21,
+    "Name": "Fin du Monde",
+    "Class": "ALLSTARS",
+    "Car": "JEEP_EVO",
+    "Template": "Fin_du_Monde",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 22,
+    "Name": "Bane RX",
+    "Class": "ALLSTARS",
+    "Car": "FURD_G850_EVO",
+    "Template": "Bane_RX",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 23,
+    "Name": "Gremlin DS",
+    "Class": "ALLSTARS",
+    "Car": "VIPER_EVO",
+    "Template": "Gremlins_DS",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 24,
+    "Name": "Coffin 46",
+    "Class": "ALLSTARS",
+    "Car": "PHAETON_EVO",
+    "Template": "Coffin46",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 25,
+    "Name": "Frenzy M600",
+    "Class": "ALLSTARS",
+    "Car": "TUSTANG_V8_EVO",
+    "Template": "Frenzy_M600",
+    "Category": "AllStar"
+  },
+  {
+    "Index": 26,
+    "Name": "Rocket Sorbet Van",
+    "Class": "ALLSTARS",
+    "Car": "ICECREAM_VAN_EVO",
+    "Template": "RocketSorbet",
+    "Category": "AllStar"
+  }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<play_all_asset>
+	<play_all_header type="Texture">
+		<version major="1" minor="0" />
+	</play_all_header>
+	<play_all_settings>
+		<params platform="GENERIC">
+      <param name="ColorSpaceProcess">NONE</param>
+      <param name="Format">COMPRESS_NO_ALPHA</param>
+		</params>
+	</play_all_settings>
+	<play_all_data>
+		<data platform="GENERIC">
+			<texture source="ASSETS:/StructureEXT_VALUE" />
+		</data>
+	</play_all_data>
+</play_all_asset>

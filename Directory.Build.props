@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <Authors>Flat2VR Studios</Authors>
+    <Product>Livery Studio</Product>
+    <Copyright>Copyright © 2026 Flat2VR Studios</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Flat2VRStudios/LiveryStudio</RepositoryUrl>
+    <CopyOutputSymbolsToPublishDirectory>false</CopyOutputSymbolsToPublishDirectory>
+    <NuGetAudit>true</NuGetAudit>
+    <NuGetAuditMode>all</NuGetAuditMode>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,5 @@
+using LiveryStudio.VehicleChecks;
+
+if (args.Length != 2 || args[0] != "--workspace")
+    throw new ArgumentException("Expected --workspace <new isolated output directory>");
+return await VehicleRegressionChecks.RunAsync(args[1]);

@@ -1,0 +1,20 @@
+ExtensionsOrder =
+{
+	".PTX",
+	".PMA",
+}
+
+Compression = 
+{
+	DEFAULT	= "LZ4"
+}
+
+Includes = 
+{
+	"**.PTX",
+	"**.PMA"
+}
+
+Excludes = 
+{
+}

@@ -1,0 +1,18 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+ <ItemGroup Label="ProjectConfigurations"><ProjectConfiguration Include="Release|x64"><Configuration>Release</Configuration><Platform>x64</Platform></ProjectConfiguration></ItemGroup>
+ <PropertyGroup Label="Globals"><ProjectGuid>{D79210D3-88AA-4213-823C-2324F41574C8}</ProjectGuid><WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion></PropertyGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props"/>
+ <PropertyGroup Label="Configuration"><ConfigurationType>DynamicLibrary</ConfigurationType><PlatformToolset>v143</PlatformToolset><UseDebugLibraries>false</UseDebugLibraries></PropertyGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props"/>
+ <PropertyGroup><TargetName>LiveryPreview</TargetName><OutDir>$(ProjectDir)..\artifacts\native\</OutDir><IntDir>$(ProjectDir)..\artifacts\native-obj\preview\</IntDir><ShaderCompiler>$([System.String]::Copy('$(WindowsSDK_ExecutablePath_x64)').Split(';')[0])\fxc.exe</ShaderCompiler></PropertyGroup>
+ <ItemDefinitionGroup><ClCompile><Optimization>MaxSpeed</Optimization><RuntimeLibrary>MultiThreaded</RuntimeLibrary><LanguageStandard>stdcpp17</LanguageStandard><PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions><AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories></ClCompile><Link><AdditionalDependencies>d3d11.lib;dxgi.lib;d2d1.lib;shlwapi.lib;ole32.lib;%(AdditionalDependencies)</AdditionalDependencies></Link>
+ <PreBuildEvent><Command>"$(ShaderCompiler)" /nologo /T vs_5_0 /E VS /Fh "$(IntDir)VertexShader.h" /Vn VertexShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T ps_5_0 /E PS /Fh "$(IntDir)PixelShader.h" /Vn PixelShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T vs_5_0 /E VSStamp /Fh "$(IntDir)StampVertexShader.h" /Vn StampVertexShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T gs_5_0 /E GSStamp /Fh "$(IntDir)StampGeometryShader.h" /Vn StampGeometryShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T ps_5_0 /E PSStamp /Fh "$(IntDir)StampPixelShader.h" /Vn StampPixelShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T vs_5_0 /E VSAtlas /Fh "$(IntDir)AtlasVertexShader.h" /Vn AtlasVertexShaderCode "$(ProjectDir)Preview.hlsl"
+"$(ShaderCompiler)" /nologo /T ps_5_0 /E PSInitializeSurface /Fh "$(IntDir)InitializeSurfaceShader.h" /Vn InitializeSurfaceShaderCode "$(ProjectDir)Preview.hlsl"</Command></PreBuildEvent></ItemDefinitionGroup>
+ <ItemGroup><ClCompile Include="Preview.cpp"/><ClCompile Include="Svg.cpp"/><None Include="Preview.hlsl"/></ItemGroup>
+ <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
+</Project>

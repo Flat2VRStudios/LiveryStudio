@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" version="1.1">
+  <title>Garage 4 vector badge</title>
+  <defs>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE4A6"/>
+      <stop offset="0.45" stop-color="#FFAB26"/>
+      <stop offset="1" stop-color="#ED5F12"/>
+    </linearGradient>
+    <clipPath id="badge"><path d="M60 24H598L540 324 300 380 20 324Z"/></clipPath>
+    <path id="slash" d="M0 0H30L-25 100H-55Z"/>
+  </defs>
+  <path d="M60 24H598L540 324 300 380 20 324Z" fill="#131C27" stroke="#FFE6B0" stroke-width="12" stroke-linejoin="round"/>
+  <g clip-path="url(#badge)">
+    <path d="M40 268H570L555 308H30Z" fill="url(#amber)"/>
+    <g fill="#FFAA24" opacity="0.28" transform="translate(132 66)">
+      <use href="#slash"/><use href="#slash" x="55"/><use href="#slash" x="110"/>
+    </g>
+    <path d="M118 84H272L260 126H168L156 168H234L222 208H144L129 254H74Z" fill="#FFF4D9"/>
+    <path d="M397 74H453L420 181H487L509 111H560L538 181H569L556 226H525L514 262H462L474 226H330L345 178Z M401 124L374 181H390Z" fill="url(#amber)" fill-rule="evenodd"/>
+    <path d="M192 329H410" fill="none" stroke="#FFE6B0" stroke-width="9" stroke-linecap="round"/>
+  </g>
+</svg>

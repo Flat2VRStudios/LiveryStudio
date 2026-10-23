@@ -1,0 +1,13 @@
+* text=auto
+*.ps1 text eol=crlf
+*.cs text eol=crlf
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.md text eol=crlf
+*.patch text eol=lf
+*.png binary
+*.ico binary
+*.flproject binary
+*.flart binary
+*.zip binary
+*.rdc binary

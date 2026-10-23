@@ -1,0 +1,4534 @@
+{
+  "representatives": [
+    {
+      "source": "Cars/DERBY/Buick/Buick.FBX",
+      "bytes": 2473920,
+      "sha256": "981B7AB134F097A19D69F4ADE57B81575E2F9B1EF2F3EE75E10111418D0ADC06",
+      "trianglesAllNodesIncludingLodsAndCollision": 54170,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Main",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "SteeringWheel",
+          "triangles": 1310,
+          "readerWorldPosition": "0.385442,0.756458,-0.000398904"
+        },
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "triangles": 28,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Calander_Position",
+          "triangles": 0,
+          "readerWorldPosition": "0.00443608,0.301992,2.10674"
+        },
+        {
+          "name": "D_Exhaust_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.766511,0.0242533,-2.38101"
+        },
+        {
+          "name": "D_Exhaust_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.758287,0.0408847,-2.39685"
+        },
+        {
+          "name": "D_Optics_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.82,0.609588,2.19711"
+        },
+        {
+          "name": "D_Optics_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.820274,0.609588,2.19734"
+        },
+        {
+          "name": "D_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.974,0.71123,-3.02053"
+        },
+        {
+          "name": "D_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.974277,0.71123,-3.02053"
+        },
+        {
+          "name": "D_Wing_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.886643,0.504501,1.46635"
+        },
+        {
+          "name": "D_Wing_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.887,0.504639,1.46625"
+        },
+        {
+          "name": "J_Boot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.72562,0.81271,-1.82413"
+        },
+        {
+          "name": "J_Boot_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.726,0.812121,-1.81702"
+        },
+        {
+          "name": "J_Bumper_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.831,0.123616,1.95889"
+        },
+        {
+          "name": "J_Bumper_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.83067,0.121754,1.9718"
+        },
+        {
+          "name": "J_Bumper_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.983848,0.0946465,-2.77905"
+        },
+        {
+          "name": "J_Bumper_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.984,0.0935573,-2.77781"
+        },
+        {
+          "name": "J_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.805161,0.578917,0.276195"
+        },
+        {
+          "name": "J_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.805,0.578917,0.276195"
+        },
+        {
+          "name": "J_Hood_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.844221,0.733851,0.698295"
+        },
+        {
+          "name": "J_Hood_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.788,0.738341,0.686739"
+        },
+        {
+          "name": "Door_L",
+          "triangles": 1294,
+          "readerWorldPosition": "0.845107,0.507893,-0.0451668"
+        },
+        {
+          "name": "Door_R",
+          "triangles": 1180,
+          "readerWorldPosition": "-0.838468,0.507893,-0.0451668"
+        },
+        {
+          "name": "Engine",
+          "triangles": 3899,
+          "readerWorldPosition": "0.00608143,0.416281,1.3937"
+        },
+        {
+          "name": "Frame_F",
+          "triangles": 424,
+          "readerWorldPosition": "2.98023e-08,0.10341,1.59585"
+        },
+        {
+          "name": "Frame_R",
+          "triangles": 731,
+          "readerWorldPosition": "0,0.0983745,-1.03259"
+        },
+        {
+          "name": "Optics_FL",
+          "triangles": 535,
+          "readerWorldPosition": "0.848423,0.528203,2.18754"
+        },
+        {
+          "name": "Optics_RL",
+          "triangles": 245,
+          "readerWorldPosition": "0.947224,0.697567,-2.90276"
+        },
+        {
+          "name": "Body",
+          "triangles": 9361,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "J_Mirror_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.963826,0.79735,0.194989"
+        },
+        {
+          "name": "Calander",
+          "triangles": 463,
+          "readerWorldPosition": "0.00338212,0.297602,2.15765"
+        },
+        {
+          "name": "Bumper_F",
+          "triangles": 762,
+          "readerWorldPosition": "0.00331849,0.00152102,2.09902"
+        },
+        {
+          "name": "Glass_B",
+          "triangles": 72,
+          "readerWorldPosition": "0.00331938,0.942687,-1.57185"
+        },
+        {
+          "name": "Glass_F",
+          "triangles": 34,
+          "readerWorldPosition": "0.00331941,0.932994,0.490061"
+        },
+        {
+          "name": "Hood",
+          "triangles": 448,
+          "readerWorldPosition": "0.00331938,0.680769,1.44743"
+        },
+        {
+          "name": "Boot",
+          "triangles": 468,
+          "readerWorldPosition": "0.00331938,0.550768,-2.36422"
+        },
+        {
+          "name": "Bumper_R",
+          "triangles": 1010,
+          "readerWorldPosition": "0.00331944,0.159824,-2.72382"
+        },
+        {
+          "name": "Glass_F_Break",
+          "triangles": 14,
+          "readerWorldPosition": "0.00331941,0.909184,0.461099"
+        },
+        {
+          "name": "Glass_B_Break",
+          "triangles": 17,
+          "readerWorldPosition": "0.00331938,0.92167,-1.57107"
+        },
+        {
+          "name": "P_BumperFL",
+          "triangles": 516,
+          "readerWorldPosition": "0.771025,0.18296,2.10186"
+        },
+        {
+          "name": "Optics_RR",
+          "triangles": 241,
+          "readerWorldPosition": "-0.947224,0.697567,-2.90276"
+        },
+        {
+          "name": "D_Reference_Pilot",
+          "triangles": 0,
+          "readerWorldPosition": "0.396835,0.272026,-0.332974"
+        },
+        {
+          "name": "D_B_P_BumperFL",
+          "triangles": 0,
+          "readerWorldPosition": "0.787101,0.216809,2.22893"
+        },
+        {
+          "name": "D_B_FrontLame",
+          "triangles": 0,
+          "readerWorldPosition": "0,0.288514,2.22121"
+        },
+        {
+          "name": "D_B_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.994667,0.496157,-0.0640178"
+        },
+        {
+          "name": "D_B_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.931219,0.498062,-0.0561824"
+        },
+        {
+          "name": "D_B_Bumper_F",
+          "triangles": 0,
+          "readerWorldPosition": "-0.000369906,-0.0683451,2.09902"
+        },
+        {
+          "name": "D_B_Bumper_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.000508547,0.12579,-2.81532"
+        },
+        {
+          "name": "D_B_Calander",
+          "triangles": 0,
+          "readerWorldPosition": "0.00338212,0.297602,2.1734"
+        },
+        {
+          "name": "D_B_P_BumperFR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.780462,0.216809,2.21326"
+        },
+        {
+          "name": "P_BumperFR",
+          "triangles": 516,
+          "readerWorldPosition": "-0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "Interior",
+          "triangles": 5186,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Optics_FR",
+          "triangles": 560,
+          "readerWorldPosition": "-0.848423,0.528203,2.18754"
+        },
+        {
+          "name": "D_Foot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.520139,0.192484,0.292543"
+        },
+        {
+          "name": "D_Foot_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.271636,0.194882,0.269851"
+        },
+        {
+          "name": "D_Hand_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.574467,0.815466,-0.0714543"
+        },
+        {
+          "name": "D_Hand_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.197049,0.798457,-0.0771198"
+        },
+        {
+          "name": "Exhaust_L",
+          "triangles": 772,
+          "readerWorldPosition": "0.595092,0.2072,-0.905028"
+        },
+        {
+          "name": "Exhaust_R",
+          "triangles": 772,
+          "readerWorldPosition": "-0.591176,0.2072,-0.905028"
+        },
+        {
+          "name": "Mirror_L",
+          "triangles": 321,
+          "readerWorldPosition": "0.916275,0.805171,0.237598"
+        },
+        {
+          "name": "Door_L_LOD1",
+          "triangles": 356,
+          "readerWorldPosition": "0.845107,0.507893,-0.0451668"
+        },
+        {
+          "name": "Door_R_LOD1",
+          "triangles": 357,
+          "readerWorldPosition": "-0.838468,0.507893,-0.0451668"
+        },
+        {
+          "name": "D_Engine",
+          "triangles": 0,
+          "readerWorldPosition": "0.00608143,0.416281,1.3937"
+        },
+        {
+          "name": "Spring_FL",
+          "triangles": 2254,
+          "readerWorldPosition": "0.458259,0.237606,1.58711"
+        },
+        {
+          "name": "Spring_FR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.458259,0.237606,1.58711"
+        },
+        {
+          "name": "Spring_RR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.458259,0.231415,-1.62041"
+        },
+        {
+          "name": "Spring_RL",
+          "triangles": 2254,
+          "readerWorldPosition": "0.458259,0.231415,-1.62041"
+        },
+        {
+          "name": "Body_LOD1",
+          "triangles": 4927,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Body_LOD2",
+          "triangles": 4655,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Calander_LOD1",
+          "triangles": 153,
+          "readerWorldPosition": "0.00338212,0.297602,2.15765"
+        },
+        {
+          "name": "Bumper_F_LOD1",
+          "triangles": 366,
+          "readerWorldPosition": "0.00331849,0.00152102,2.09902"
+        },
+        {
+          "name": "Hood_LOD1",
+          "triangles": 130,
+          "readerWorldPosition": "0.00331938,0.680769,1.44743"
+        },
+        {
+          "name": "P_LogoRear",
+          "triangles": 1310,
+          "readerWorldPosition": "0.011065,0.472995,-2.85727"
+        },
+        {
+          "name": "Boot_LOD1",
+          "triangles": 296,
+          "readerWorldPosition": "0.00331938,0.550768,-2.36422"
+        },
+        {
+          "name": "Bumper_R_LOD1",
+          "triangles": 442,
+          "readerWorldPosition": "0.00331944,0.159824,-2.72382"
+        },
+        {
+          "name": "P_BumperFL_LOD1",
+          "triangles": 290,
+          "readerWorldPosition": "0.771025,0.18296,2.10186"
+        },
+        {
+          "name": "P_BumperFR_LOD1",
+          "triangles": 290,
+          "readerWorldPosition": "-0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "D_Exhaust_L_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.919316,0.412625,-3.06705"
+        },
+        {
+          "name": "Exhaust_L_LOD1",
+          "triangles": 108,
+          "readerWorldPosition": "0.595092,0.2072,-0.905028"
+        },
+        {
+          "name": "D_Exhaust_R_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.919,0.412625,-3.0674"
+        },
+        {
+          "name": "Exhaust_R_LOD1",
+          "triangles": 108,
+          "readerWorldPosition": "-0.591176,0.2072,-0.905028"
+        },
+        {
+          "name": "Mirror_L_LOD1",
+          "triangles": 187,
+          "readerWorldPosition": "0.916275,0.805171,0.237598"
+        }
+      ],
+      "p3d": "Cars/DERBY/Buick/Buick.P3D.XML",
+      "p3dSha256": "7597B871FB05F12D587BC0676247EC8A7D93C3018AF7368DF94AB79259EF91CE",
+      "geometryPath": "Sources:/GRAPH\\Cars\\Derby\\Buick\\Buick.FBX",
+      "discard": [
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM"
+        }
+      ],
+      "physics": [
+        {
+          "asset-ref": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "type": "convex"
+        }
+      ],
+      "psi": "Cars/DERBY/Buick/Buick.PSI.XML",
+      "psiSha256": "FB6F7F7984AEAFA95CF0785F00131DF3F5F0897CFE6528D553CCA16F4F218098",
+      "bindings": [
+        {
+          "mesh": "Exhaust_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Engine",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Engine.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_F",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_R",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\COMMON\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_LogoRear",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFL",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFL_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFR",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFR_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "geometry": "0",
+          "physical_material": "Assets:/PhysicalMaterial/CCAMCBLOCK.PMC.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/DERBY/Buick/Buick_Wheel.FBX",
+      "bytes": 371648,
+      "sha256": "F360B1A51553D9181447724F2548BEB35690987E18AC35F35BE332CF3731AEA5",
+      "trianglesAllNodesIncludingLodsAndCollision": 8688,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 294,
+          "readerWorldPosition": "-6.12398e-10,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 840,
+          "readerWorldPosition": "0,-7.64262e-32,6.4111e-25"
+        },
+        {
+          "name": "Rim_B",
+          "triangles": 3171,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_C",
+          "triangles": 3171,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 780,
+          "readerWorldPosition": "0,-7.64262e-32,6.4111e-25"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        }
+      ],
+      "p3d": "Cars/DERBY/Buick/Buick_Wheel.P3D.XML",
+      "p3dSha256": "D2C5088830CF72A36A49C9DB30D3751417F7DC880AF4588590F7F1F23F40E478",
+      "geometryPath": "Sources:/GRAPH\\Cars\\Derby\\Buick\\Buick_Wheel.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/DERBY/Buick/Buick_Wheel.PSI.XML",
+      "psiSha256": "65B390088198C99759CFE3D8A6FA23FFDE2F9CB994E6651ED93A4FE7962E19EB",
+      "bindings": [
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\TYRE.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\TYRE.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\TYRE.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\TYRE.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\TYRE.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\Derby\\Buick\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/CLASSIC/Buick/Buick.FBX",
+      "bytes": 2422704,
+      "sha256": "E10594D48879306C4D71A2E4B16CB2BFE24DD5611EA6DD7C5CEFC65E033074A3",
+      "trianglesAllNodesIncludingLodsAndCollision": 54181,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Main",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "SteeringWheel",
+          "triangles": 1310,
+          "readerWorldPosition": "0.385442,0.756458,-0.000398904"
+        },
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "triangles": 28,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Calander_Position",
+          "triangles": 0,
+          "readerWorldPosition": "0.00443608,0.301992,2.10674"
+        },
+        {
+          "name": "D_Exhaust_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.766511,0.0242533,-2.38101"
+        },
+        {
+          "name": "D_Exhaust_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.758287,0.0408847,-2.39685"
+        },
+        {
+          "name": "D_Optics_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.82,0.609588,2.19711"
+        },
+        {
+          "name": "D_Optics_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.820274,0.609588,2.19734"
+        },
+        {
+          "name": "D_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.974,0.71123,-3.02053"
+        },
+        {
+          "name": "D_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.974277,0.71123,-3.02053"
+        },
+        {
+          "name": "D_Wing_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.886643,0.504501,1.46635"
+        },
+        {
+          "name": "D_Wing_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.887,0.504639,1.46625"
+        },
+        {
+          "name": "J_Boot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.72562,0.81271,-1.82413"
+        },
+        {
+          "name": "J_Boot_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.726,0.812121,-1.81702"
+        },
+        {
+          "name": "J_Bumper_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.831,0.123616,1.95889"
+        },
+        {
+          "name": "J_Bumper_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.83067,0.121754,1.9718"
+        },
+        {
+          "name": "J_Bumper_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.983848,0.0946465,-2.77905"
+        },
+        {
+          "name": "J_Bumper_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.984,0.0935573,-2.77781"
+        },
+        {
+          "name": "J_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.805161,0.578917,0.276195"
+        },
+        {
+          "name": "J_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.805,0.578917,0.276195"
+        },
+        {
+          "name": "J_Hood_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.844221,0.733851,0.698295"
+        },
+        {
+          "name": "J_Hood_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.788,0.738341,0.686739"
+        },
+        {
+          "name": "Door_L",
+          "triangles": 1294,
+          "readerWorldPosition": "0.845107,0.507893,-0.0451668"
+        },
+        {
+          "name": "Door_R",
+          "triangles": 1180,
+          "readerWorldPosition": "-0.838468,0.507893,-0.0451668"
+        },
+        {
+          "name": "Engine",
+          "triangles": 3899,
+          "readerWorldPosition": "0.00608143,0.416281,1.3937"
+        },
+        {
+          "name": "Frame_F",
+          "triangles": 424,
+          "readerWorldPosition": "2.98023e-08,0.10341,1.59585"
+        },
+        {
+          "name": "Frame_R",
+          "triangles": 731,
+          "readerWorldPosition": "0,0.0983745,-1.03259"
+        },
+        {
+          "name": "Optics_FL",
+          "triangles": 560,
+          "readerWorldPosition": "0.848423,0.528203,2.18754"
+        },
+        {
+          "name": "Optics_RL",
+          "triangles": 247,
+          "readerWorldPosition": "0.947224,0.697567,-2.90276"
+        },
+        {
+          "name": "Body",
+          "triangles": 9361,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "J_Mirror_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.963826,0.79735,0.194989"
+        },
+        {
+          "name": "Calander",
+          "triangles": 463,
+          "readerWorldPosition": "0.00338212,0.297602,2.15765"
+        },
+        {
+          "name": "Bumper_F",
+          "triangles": 762,
+          "readerWorldPosition": "0.00331849,0.0131482,2.09902"
+        },
+        {
+          "name": "Glass_B",
+          "triangles": 72,
+          "readerWorldPosition": "0.00331938,0.942687,-1.57185"
+        },
+        {
+          "name": "Glass_F",
+          "triangles": 34,
+          "readerWorldPosition": "0.00331941,0.932994,0.490061"
+        },
+        {
+          "name": "Hood",
+          "triangles": 448,
+          "readerWorldPosition": "0.00331938,0.628828,1.43766"
+        },
+        {
+          "name": "Boot",
+          "triangles": 468,
+          "readerWorldPosition": "0.00331938,0.550768,-2.36422"
+        },
+        {
+          "name": "Bumper_R",
+          "triangles": 1010,
+          "readerWorldPosition": "0.00331944,0.159824,-2.72382"
+        },
+        {
+          "name": "Glass_F_Break",
+          "triangles": 14,
+          "readerWorldPosition": "0.00331941,0.909184,0.461099"
+        },
+        {
+          "name": "Glass_B_Break",
+          "triangles": 17,
+          "readerWorldPosition": "0.00331938,0.92167,-1.57107"
+        },
+        {
+          "name": "P_BumperFL",
+          "triangles": 516,
+          "readerWorldPosition": "0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "Optics_RR",
+          "triangles": 247,
+          "readerWorldPosition": "-0.947224,0.697567,-2.90276"
+        },
+        {
+          "name": "D_Reference_Pilot",
+          "triangles": 0,
+          "readerWorldPosition": "0.396835,0.272026,-0.332974"
+        },
+        {
+          "name": "D_B_P_BumperFL",
+          "triangles": 0,
+          "readerWorldPosition": "0.787101,0.216809,2.22893"
+        },
+        {
+          "name": "D_B_FrontLame",
+          "triangles": 0,
+          "readerWorldPosition": "0,0.288514,2.22121"
+        },
+        {
+          "name": "D_B_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.994667,0.496157,-0.0640178"
+        },
+        {
+          "name": "D_B_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.931219,0.498062,-0.0561824"
+        },
+        {
+          "name": "D_B_Bumper_F",
+          "triangles": 0,
+          "readerWorldPosition": "-0.000369906,-0.0683451,2.09902"
+        },
+        {
+          "name": "D_B_Bumper_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.000508547,0.12579,-2.81532"
+        },
+        {
+          "name": "D_B_Calander",
+          "triangles": 0,
+          "readerWorldPosition": "0.00338212,0.297602,2.1734"
+        },
+        {
+          "name": "D_B_P_BumperFR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.780462,0.216809,2.21326"
+        },
+        {
+          "name": "P_BumperFR",
+          "triangles": 516,
+          "readerWorldPosition": "-0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "Interior",
+          "triangles": 5186,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Optics_FR",
+          "triangles": 560,
+          "readerWorldPosition": "-0.848423,0.528203,2.18754"
+        },
+        {
+          "name": "D_Foot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.520139,0.192484,0.292543"
+        },
+        {
+          "name": "D_Foot_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.271636,0.194882,0.269851"
+        },
+        {
+          "name": "D_Hand_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.574467,0.815466,-0.0714543"
+        },
+        {
+          "name": "D_Hand_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.197049,0.798457,-0.0771198"
+        },
+        {
+          "name": "Exhaust_L",
+          "triangles": 772,
+          "readerWorldPosition": "0.595092,0.2072,-0.905028"
+        },
+        {
+          "name": "Exhaust_R",
+          "triangles": 772,
+          "readerWorldPosition": "-0.591176,0.2072,-0.905028"
+        },
+        {
+          "name": "Mirror_L",
+          "triangles": 307,
+          "readerWorldPosition": "0.916275,0.805171,0.237598"
+        },
+        {
+          "name": "Door_L_LOD1",
+          "triangles": 356,
+          "readerWorldPosition": "0.845107,0.507893,-0.0451668"
+        },
+        {
+          "name": "Door_R_LOD1",
+          "triangles": 357,
+          "readerWorldPosition": "-0.838468,0.507893,-0.0451668"
+        },
+        {
+          "name": "D_Engine",
+          "triangles": 0,
+          "readerWorldPosition": "0.00608143,0.416281,1.3937"
+        },
+        {
+          "name": "Spring_FL",
+          "triangles": 2254,
+          "readerWorldPosition": "0.458259,0.237606,1.58711"
+        },
+        {
+          "name": "Spring_FR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.458259,0.237606,1.58711"
+        },
+        {
+          "name": "Spring_RR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.458259,0.231415,-1.62041"
+        },
+        {
+          "name": "Spring_RL",
+          "triangles": 2254,
+          "readerWorldPosition": "0.458259,0.231415,-1.62041"
+        },
+        {
+          "name": "Body_LOD1",
+          "triangles": 4927,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Body_LOD2",
+          "triangles": 4655,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Calander_LOD1",
+          "triangles": 153,
+          "readerWorldPosition": "0.00338212,0.297602,2.15765"
+        },
+        {
+          "name": "Bumper_F_LOD1",
+          "triangles": 366,
+          "readerWorldPosition": "0.00331849,0.0131482,2.09902"
+        },
+        {
+          "name": "Hood_LOD1",
+          "triangles": 130,
+          "readerWorldPosition": "0.00331938,0.628828,1.43766"
+        },
+        {
+          "name": "P_LogoRear",
+          "triangles": 1310,
+          "readerWorldPosition": "0.011065,0.472995,-2.85727"
+        },
+        {
+          "name": "Boot_LOD1",
+          "triangles": 296,
+          "readerWorldPosition": "0.00331938,0.550768,-2.36422"
+        },
+        {
+          "name": "Bumper_R_LOD1",
+          "triangles": 442,
+          "readerWorldPosition": "0.00331944,0.159824,-2.72382"
+        },
+        {
+          "name": "P_BumperFL_LOD1",
+          "triangles": 290,
+          "readerWorldPosition": "0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "P_BumperFR_LOD1",
+          "triangles": 290,
+          "readerWorldPosition": "-0.771025,0.224697,2.10186"
+        },
+        {
+          "name": "D_Exhaust_L_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.919316,0.412625,-3.06705"
+        },
+        {
+          "name": "Exhaust_L_LOD1",
+          "triangles": 108,
+          "readerWorldPosition": "0.595092,0.2072,-0.905028"
+        },
+        {
+          "name": "D_Exhaust_R_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.919,0.412625,-3.0674"
+        },
+        {
+          "name": "Exhaust_R_LOD1",
+          "triangles": 108,
+          "readerWorldPosition": "-0.591176,0.2072,-0.905028"
+        },
+        {
+          "name": "Mirror_L_LOD1",
+          "triangles": 179,
+          "readerWorldPosition": "0.916275,0.805171,0.237598"
+        }
+      ],
+      "p3d": "Cars/CLASSIC/Buick/Buick.P3D.XML",
+      "p3dSha256": "B60E8908EA9AE35C7A7B223910EC780E11B33A17FE19E0E24E900E11FE07F64F",
+      "geometryPath": "Sources:/GRAPH\\Cars\\CLASSIC\\Buick\\Buick.FBX",
+      "discard": [
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM"
+        }
+      ],
+      "physics": [
+        {
+          "asset-ref": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "type": "convex"
+        }
+      ],
+      "psi": "Cars/CLASSIC/Buick/Buick.PSI.XML",
+      "psiSha256": "C2E815E61CAB4492915FBE7E46DD937A96A2D6CA39BDD8CF58FC33C696976B88",
+      "bindings": [
+        {
+          "mesh": "Exhaust_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Engine",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Engine.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_F",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_R",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\COMMON\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_LogoRear",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFL",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFL_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFR",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_BumperFR_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "geometry": "0",
+          "physical_material": "Assets:/PhysicalMaterial/CCAMCBLOCK.PMC.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/CLASSIC/Buick/Buick_Wheel.FBX",
+      "bytes": 371648,
+      "sha256": "F360B1A51553D9181447724F2548BEB35690987E18AC35F35BE332CF3731AEA5",
+      "trianglesAllNodesIncludingLodsAndCollision": 8688,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 294,
+          "readerWorldPosition": "-6.12398e-10,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 840,
+          "readerWorldPosition": "0,-7.64262e-32,6.4111e-25"
+        },
+        {
+          "name": "Rim_B",
+          "triangles": 3171,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_C",
+          "triangles": 3171,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 780,
+          "readerWorldPosition": "0,-7.64262e-32,6.4111e-25"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        }
+      ],
+      "p3d": "Cars/CLASSIC/Buick/Buick_Wheel.P3D.XML",
+      "p3dSha256": "7E66BC4089AA5CA19A30897D64FB48A79493FB1826F1433686E4DE106C3C8677",
+      "geometryPath": "Sources:/GRAPH\\Cars\\CLASSIC\\Buick\\Buick_Wheel.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/CLASSIC/Buick/Buick_Wheel.PSI.XML",
+      "psiSha256": "59739E9C4DA38C3A265BD3C276AF79440911E59C22A9A4755D0FA9FD1F923B80",
+      "bindings": [
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Buick\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/ALLSTARS/Buick_Evo/Buick_Evo.FBX",
+      "bytes": 3321712,
+      "sha256": "4DE6B3FFC4AE16CBACB6E3219A1F180E571CC72D86E393B2FB60C7589537D0D5",
+      "trianglesAllNodesIncludingLodsAndCollision": 70985,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Main",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "SteeringWheel",
+          "triangles": 1214,
+          "readerWorldPosition": "0.385442,0.870395,0.126356"
+        },
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "triangles": 28,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Exhaust_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.419828,0.005735,0.873605"
+        },
+        {
+          "name": "D_Exhaust_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.455262,-0.0108964,0.874453"
+        },
+        {
+          "name": "D_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.805285,0.209549,-2.82875"
+        },
+        {
+          "name": "J_Boot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.714962,0.863352,-1.6888"
+        },
+        {
+          "name": "J_Boot_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.715,0.862762,-1.6817"
+        },
+        {
+          "name": "J_Bumper_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.71814,-0.0286393,-2.75379"
+        },
+        {
+          "name": "J_Bumper_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.72465,-0.0182593,-2.73874"
+        },
+        {
+          "name": "J_Bumper_FL",
+          "triangles": 0,
+          "readerWorldPosition": "1.03911,0.1987,2.01051"
+        },
+        {
+          "name": "J_Bumper_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-1.039,0.196837,2.02342"
+        },
+        {
+          "name": "J_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.864121,0.674056,0.306056"
+        },
+        {
+          "name": "J_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.867047,0.674056,0.306056"
+        },
+        {
+          "name": "J_Hood_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.779184,0.864231,0.706805"
+        },
+        {
+          "name": "J_Hood_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.779,0.865331,0.705573"
+        },
+        {
+          "name": "D_Wing_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.922,0.633538,1.44979"
+        },
+        {
+          "name": "D_Calander_Position",
+          "triangles": 0,
+          "readerWorldPosition": "0.00443608,0.327207,1.92033"
+        },
+        {
+          "name": "D_Wing_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.92229,0.633676,1.44968"
+        },
+        {
+          "name": "D_Optics_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.816586,0.710414,2.09068"
+        },
+        {
+          "name": "D_Optics_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.817,0.710414,2.09091"
+        },
+        {
+          "name": "D_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.805,0.209549,-2.82875"
+        },
+        {
+          "name": "Frame_F",
+          "triangles": 424,
+          "readerWorldPosition": "0,0.267204,1.52427"
+        },
+        {
+          "name": "Frame_R",
+          "triangles": 731,
+          "readerWorldPosition": "-2.98023e-08,0.272231,-1.14894"
+        },
+        {
+          "name": "J_Mirror_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.925779,0.8909,0.391925"
+        },
+        {
+          "name": "Mirror_L",
+          "triangles": 307,
+          "readerWorldPosition": "0.878228,0.898721,0.434534"
+        },
+        {
+          "name": "D_Reference_Pilot",
+          "triangles": 0,
+          "readerWorldPosition": "0.396835,0.385963,-0.206219"
+        },
+        {
+          "name": "D_Foot_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.271636,0.29859,0.434657"
+        },
+        {
+          "name": "D_Foot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.52244,0.281935,0.440573"
+        },
+        {
+          "name": "Interior",
+          "triangles": 3618,
+          "readerWorldPosition": "0,0.616037,-0.371684"
+        },
+        {
+          "name": "Bumper_R",
+          "triangles": 1060,
+          "readerWorldPosition": "0,0.00983569,-2.6224"
+        },
+        {
+          "name": "Boot",
+          "triangles": 2340,
+          "readerWorldPosition": "1.19209e-07,0.537704,-2.18464"
+        },
+        {
+          "name": "Optics_FL",
+          "triangles": 1048,
+          "readerWorldPosition": "0.820484,0.578676,2.25567"
+        },
+        {
+          "name": "Calander",
+          "triangles": 1486,
+          "readerWorldPosition": "-2.38419e-07,0.318538,2.39485"
+        },
+        {
+          "name": "P_Teeth",
+          "triangles": 644,
+          "readerWorldPosition": "0,0.318105,2.36311"
+        },
+        {
+          "name": "Glass_F",
+          "triangles": 38,
+          "readerWorldPosition": "5.96046e-08,1.02834,0.493384"
+        },
+        {
+          "name": "Glass_F_Break",
+          "triangles": 38,
+          "readerWorldPosition": "5.96046e-08,1.02834,0.493384"
+        },
+        {
+          "name": "Door_L",
+          "triangles": 980,
+          "readerWorldPosition": "0.801926,0.564682,-0.12735"
+        },
+        {
+          "name": "Glass_B_Break",
+          "triangles": 56,
+          "readerWorldPosition": "0,1.00018,-1.41839"
+        },
+        {
+          "name": "Door_R",
+          "triangles": 980,
+          "readerWorldPosition": "-0.801792,0.56348,-0.12735"
+        },
+        {
+          "name": "Body",
+          "triangles": 10900,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Hood",
+          "triangles": 530,
+          "readerWorldPosition": "0.00116736,0.758394,1.58232"
+        },
+        {
+          "name": "Engine",
+          "triangles": 8689,
+          "readerWorldPosition": "0,0.567385,1.57819"
+        },
+        {
+          "name": "Optics_RL",
+          "triangles": 2058,
+          "readerWorldPosition": "0.82676,0.395183,-2.36978"
+        },
+        {
+          "name": "Optics_FR",
+          "triangles": 1048,
+          "readerWorldPosition": "-0.820484,0.578676,2.25567"
+        },
+        {
+          "name": "Optics_RR",
+          "triangles": 2058,
+          "readerWorldPosition": "-0.82676,0.395183,-2.36978"
+        },
+        {
+          "name": "P_WheelFrameL",
+          "triangles": 151,
+          "readerWorldPosition": "1.03134,0.274893,-1.53707"
+        },
+        {
+          "name": "P_WheelFrameR",
+          "triangles": 151,
+          "readerWorldPosition": "-1.03134,0.274893,-1.53707"
+        },
+        {
+          "name": "Glass_B",
+          "triangles": 56,
+          "readerWorldPosition": "0,1.00018,-1.41839"
+        },
+        {
+          "name": "D_B_Calander",
+          "triangles": 0,
+          "readerWorldPosition": "-2.38419e-07,0.318538,2.39485"
+        },
+        {
+          "name": "D_B_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.832078,0.564682,-0.12735"
+        },
+        {
+          "name": "D_B_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.842074,0.56348,-0.12735"
+        },
+        {
+          "name": "D_B_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.82676,0.395183,-2.36978"
+        },
+        {
+          "name": "D_B_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.82676,0.395183,-2.36978"
+        },
+        {
+          "name": "D_B_Bumper_R",
+          "triangles": 0,
+          "readerWorldPosition": "0,0.0195372,-2.6656"
+        },
+        {
+          "name": "P_PlateR",
+          "triangles": 54,
+          "readerWorldPosition": "0,0.0398202,-2.80155"
+        },
+        {
+          "name": "D_B_Bumper_F",
+          "triangles": 0,
+          "readerWorldPosition": "1.19209e-07,0.137803,2.21863"
+        },
+        {
+          "name": "Bumper_F",
+          "triangles": 1906,
+          "readerWorldPosition": "1.19209e-07,0.137803,2.18978"
+        },
+        {
+          "name": "D_Hand_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.558843,0.93167,0.0705604"
+        },
+        {
+          "name": "D_Hand_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.209667,0.932401,0.0533678"
+        },
+        {
+          "name": "Exhaust_R",
+          "triangles": 612,
+          "readerWorldPosition": "-0.389508,0.162305,-0.696583"
+        },
+        {
+          "name": "Exhaust_L",
+          "triangles": 612,
+          "readerWorldPosition": "0.389508,0.162305,-0.696583"
+        },
+        {
+          "name": "Spring_FL",
+          "triangles": 2216,
+          "readerWorldPosition": "0.39993,0.368115,1.51664"
+        },
+        {
+          "name": "Spring_FR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.39993,0.384318,1.51664"
+        },
+        {
+          "name": "Spring_RL",
+          "triangles": 2254,
+          "readerWorldPosition": "0.39993,0.384315,-1.69893"
+        },
+        {
+          "name": "Spring_RR",
+          "triangles": 2254,
+          "readerWorldPosition": "-0.39993,0.384315,-1.69893"
+        },
+        {
+          "name": "P_Straps",
+          "triangles": 184,
+          "readerWorldPosition": "0.0079708,0.685348,-2.17437"
+        },
+        {
+          "name": "P_SpareWheel",
+          "triangles": 2290,
+          "readerWorldPosition": "-3.25739e-05,0.656912,-2.14451"
+        },
+        {
+          "name": "Boot_LOD1",
+          "triangles": 405,
+          "readerWorldPosition": "1.19209e-07,0.537704,-2.18464"
+        },
+        {
+          "name": "Door_L_LOD1",
+          "triangles": 482,
+          "readerWorldPosition": "0.801926,0.564682,-0.12735"
+        },
+        {
+          "name": "Door_R_LOD1",
+          "triangles": 482,
+          "readerWorldPosition": "-0.801792,0.56348,-0.12735"
+        },
+        {
+          "name": "Body_LOD1",
+          "triangles": 5719,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Body_LOD2",
+          "triangles": 6546,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "P_FrontLame",
+          "triangles": 388,
+          "readerWorldPosition": "0.00185758,0.597861,2.50114"
+        },
+        {
+          "name": "Hood_LOD1",
+          "triangles": 366,
+          "readerWorldPosition": "0.00116736,0.758394,1.58232"
+        },
+        {
+          "name": "D_Engine",
+          "triangles": 0,
+          "readerWorldPosition": "-1.64873e-08,0.567385,1.55677"
+        },
+        {
+          "name": "P_WheelFrameL_LOD1",
+          "triangles": 53,
+          "readerWorldPosition": "1.03134,0.274893,-1.53707"
+        },
+        {
+          "name": "P_WheelFrameR_LOD1",
+          "triangles": 53,
+          "readerWorldPosition": "-1.03134,0.274893,-1.53707"
+        },
+        {
+          "name": "P_PlateF",
+          "triangles": 54,
+          "readerWorldPosition": "-2.23517e-08,0.0220581,2.50589"
+        },
+        {
+          "name": "Bumper_F_LOD1",
+          "triangles": 1168,
+          "readerWorldPosition": "0,0.137803,2.18978"
+        },
+        {
+          "name": "D_Exhaust_R_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.547634,-0.0651867,-2.75792"
+        },
+        {
+          "name": "D_Exhaust_R2_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.401073,-0.0651867,-2.75792"
+        },
+        {
+          "name": "D_Exhaust_L2_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.383087,-0.0618633,-2.75799"
+        },
+        {
+          "name": "D_Exhaust_L_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.52797,-0.0618633,-2.75799"
+        }
+      ],
+      "p3d": "Cars/ALLSTARS/Buick_Evo/Buick_Evo.P3D.XML",
+      "p3dSha256": "15631D0F5857D178609DFB4697AFA9AE752F4A6AA971105DB32C01050EA435FB",
+      "geometryPath": "Sources:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Buick_Evo.FBX",
+      "discard": [
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM"
+        }
+      ],
+      "physics": [
+        {
+          "asset-ref": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "type": "convex"
+        }
+      ],
+      "psi": "Cars/ALLSTARS/Buick_Evo/Buick_Evo.PSI.XML",
+      "psiSha256": "CD96B4695380DB222730E30F53AEAB207F62F6FC67D1B77879EDE125CF4DE5B7",
+      "bindings": [
+        {
+          "mesh": "Exhaust_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_F",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_R",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Straps",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_SpareWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Props.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Teeth",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\COMMON\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_FrontLame",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Engine",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Engine.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_WheelFrameL",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_WheelFrameL_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_WheelFrameR",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_WheelFrameR_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_PlateR",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_PlateF",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "geometry": "0",
+          "physical_material": "Assets:/PhysicalMaterial/CCAMCBLOCK.PMC.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/ALLSTARS/Buick_Evo/Buick_Evo_Wheel.FBX",
+      "bytes": 266304,
+      "sha256": "8218B112D22896823763053B5A5C222E91FCC2D910CD03F32AB86FFC6B4036D6",
+      "trianglesAllNodesIncludingLodsAndCollision": 6002,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 294,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 750,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_C",
+          "triangles": 1888,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_B",
+          "triangles": 1888,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 750,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 216,
+          "readerWorldPosition": "0,0,0"
+        }
+      ],
+      "p3d": "Cars/ALLSTARS/Buick_Evo/Buick_Evo_Wheel.P3D.XML",
+      "p3dSha256": "1094B2F9D35D20BB744407878E75CA6084F0BC496F2D515594D711F18A04B77E",
+      "geometryPath": "Sources:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Buick_Evo_Wheel.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/ALLSTARS/Buick_Evo/Buick_Evo_Wheel.PSI.XML",
+      "psiSha256": "7FD1BA9DC2E850D26988BA21A7B7817227FA160D2C7A0083EF84848F7408EBBA",
+      "bindings": [
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Buick_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/CLASSIC/Icecream_Van/Icecream_Van.FBX",
+      "bytes": 3015312,
+      "sha256": "A6A4E054C5AFF1AC37CC931859230165E29845BE420BD13D08E5C72FF9DAFC1C",
+      "trianglesAllNodesIncludingLodsAndCollision": 69978,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Main",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "SteeringWheel",
+          "triangles": 1166,
+          "readerWorldPosition": "0.488612,1.11963,1.11974"
+        },
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "triangles": 28,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Boot",
+          "triangles": 684,
+          "readerWorldPosition": "4.239e-07,1.06546,-3.01929"
+        },
+        {
+          "name": "Bumper_R",
+          "triangles": 716,
+          "readerWorldPosition": "0,0.00990772,-2.99323"
+        },
+        {
+          "name": "Door_L",
+          "triangles": 1172,
+          "readerWorldPosition": "0.967792,0.856512,0.820065"
+        },
+        {
+          "name": "Glass_F",
+          "triangles": 336,
+          "readerWorldPosition": "-2.22886e-05,1.36299,1.58214"
+        },
+        {
+          "name": "Mirror_L",
+          "triangles": 878,
+          "readerWorldPosition": "1.15935,1.38534,1.37541"
+        },
+        {
+          "name": "Optics_FL",
+          "triangles": 1171,
+          "readerWorldPosition": "0.870645,0.417885,2.09942"
+        },
+        {
+          "name": "Optics_FR",
+          "triangles": 1171,
+          "readerWorldPosition": "-0.866837,0.417885,2.09942"
+        },
+        {
+          "name": "Optics_RL",
+          "triangles": 1060,
+          "readerWorldPosition": "0.677156,0.141964,-3.09669"
+        },
+        {
+          "name": "Optics_RR",
+          "triangles": 1060,
+          "readerWorldPosition": "-0.673016,0.141964,-3.09669"
+        },
+        {
+          "name": "Spring_FL",
+          "triangles": 2152,
+          "readerWorldPosition": "0.399046,0.155131,1.5108"
+        },
+        {
+          "name": "Spring_FR",
+          "triangles": 2152,
+          "readerWorldPosition": "-0.399046,0.155131,1.5108"
+        },
+        {
+          "name": "Spring_RL",
+          "triangles": 2313,
+          "readerWorldPosition": "0.381536,0.142712,-1.48529"
+        },
+        {
+          "name": "Spring_RR",
+          "triangles": 2313,
+          "readerWorldPosition": "-0.381536,0.142712,-1.48529"
+        },
+        {
+          "name": "D_Exhaust_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.677671,0.0470251,-2.54819"
+        },
+        {
+          "name": "D_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.677211,0.130617,-3.05114"
+        },
+        {
+          "name": "D_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.675809,0.138968,-3.05467"
+        },
+        {
+          "name": "J_Boot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.8549,0.381791,-3.06059"
+        },
+        {
+          "name": "J_Boot_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.848751,0.382567,-3.05997"
+        },
+        {
+          "name": "J_Bumper_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.847752,0.00387675,-3.08907"
+        },
+        {
+          "name": "J_Bumper_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.899033,0.0755811,-3.08907"
+        },
+        {
+          "name": "J_Bumper_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.919353,0.0790704,2.08127"
+        },
+        {
+          "name": "J_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "1.0214,0.86564,1.16443"
+        },
+        {
+          "name": "J_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-1.00913,0.859937,1.16695"
+        },
+        {
+          "name": "J_Hood_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.888974,0.936204,1.76793"
+        },
+        {
+          "name": "J_Hood_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.882118,0.895174,1.79173"
+        },
+        {
+          "name": "J_Mirror_L",
+          "triangles": 0,
+          "readerWorldPosition": "1.21043,1.34729,1.38744"
+        },
+        {
+          "name": "D_Wing_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.9785,0.742383,1.97221"
+        },
+        {
+          "name": "D_Calander_Position",
+          "triangles": 0,
+          "readerWorldPosition": "0.0044361,0.438938,2.1081"
+        },
+        {
+          "name": "D_Wing_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.952579,0.742521,1.9721"
+        },
+        {
+          "name": "D_Optics_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.886817,0.421213,2.1199"
+        },
+        {
+          "name": "D_Optics_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.896703,0.421213,2.12013"
+        },
+        {
+          "name": "D_Bullbar_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.554189,0.0606161,2.21345"
+        },
+        {
+          "name": "D_Bullbar_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.573379,0.0606161,2.21345"
+        },
+        {
+          "name": "D_Lightpod",
+          "triangles": 0,
+          "readerWorldPosition": "0,2.20763,1.28652"
+        },
+        {
+          "name": "D_Props_2",
+          "triangles": 0,
+          "readerWorldPosition": "0.765877,2.20763,1.02386"
+        },
+        {
+          "name": "Wing_R",
+          "triangles": 301,
+          "readerWorldPosition": "-0.945015,0.550632,1.96455"
+        },
+        {
+          "name": "Wing_L",
+          "triangles": 332,
+          "readerWorldPosition": "0.949582,0.550632,1.96455"
+        },
+        {
+          "name": "Hood",
+          "triangles": 1196,
+          "readerWorldPosition": "0.00228283,0.756632,1.96174"
+        },
+        {
+          "name": "Calander",
+          "triangles": 1966,
+          "readerWorldPosition": "0.00227615,0.40907,2.1246"
+        },
+        {
+          "name": "Body",
+          "triangles": 15481,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Props_2",
+          "triangles": 156,
+          "readerWorldPosition": "0.752517,2.14586,1.02453"
+        },
+        {
+          "name": "Lightpod",
+          "triangles": 3626,
+          "readerWorldPosition": "0.0380244,2.18473,1.23215"
+        },
+        {
+          "name": "Interior",
+          "triangles": 4507,
+          "readerWorldPosition": "0.0128992,0.957195,1.03263"
+        },
+        {
+          "name": "Door_R",
+          "triangles": 1172,
+          "readerWorldPosition": "-0.965917,0.856512,0.820065"
+        },
+        {
+          "name": "Glass_F_Break",
+          "triangles": 235,
+          "readerWorldPosition": "-2.22886e-05,1.36299,1.58214"
+        },
+        {
+          "name": "D_Reference_Pilot",
+          "triangles": 0,
+          "readerWorldPosition": "0.498154,0.835117,0.764819"
+        },
+        {
+          "name": "D_Foot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.604821,0.495885,1.2776"
+        },
+        {
+          "name": "D_Foot_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.327956,0.490731,1.27008"
+        },
+        {
+          "name": "D_B_Boot",
+          "triangles": 0,
+          "readerWorldPosition": "4.76837e-07,1.1489,-2.91188"
+        },
+        {
+          "name": "D_B_Bullbar_F",
+          "triangles": 0,
+          "readerWorldPosition": "0.00455117,0.27384,2.31092"
+        },
+        {
+          "name": "D_B_Bumper_F",
+          "triangles": 0,
+          "readerWorldPosition": "0.0391216,0.0299237,2.04007"
+        },
+        {
+          "name": "D_B_Bumper_R",
+          "triangles": 0,
+          "readerWorldPosition": "-5.83529e-05,0.0100483,-2.9933"
+        },
+        {
+          "name": "D_B_Calander",
+          "triangles": 0,
+          "readerWorldPosition": "0.00227606,0.409584,2.13893"
+        },
+        {
+          "name": "D_B_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.968643,0.856625,0.816996"
+        },
+        {
+          "name": "D_B_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-1.03929,0.869052,0.818115"
+        },
+        {
+          "name": "D_B_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.676838,0.144237,-3.09856"
+        },
+        {
+          "name": "D_B_Optics_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.675006,0.141964,-3.09789"
+        },
+        {
+          "name": "D_B_Wing_L",
+          "triangles": 0,
+          "readerWorldPosition": "1.02327,0.550984,1.96455"
+        },
+        {
+          "name": "D_B_Wing_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.944738,0.557484,1.95903"
+        },
+        {
+          "name": "Engine",
+          "triangles": 3875,
+          "readerWorldPosition": "0.0169037,0.276282,3.16202"
+        },
+        {
+          "name": "Bullbar_F",
+          "triangles": 1416,
+          "readerWorldPosition": "0,0.278559,2.23534"
+        },
+        {
+          "name": "D_Hand_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.679272,1.12953,1.0092"
+        },
+        {
+          "name": "D_Hand_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.300057,1.11542,0.993973"
+        },
+        {
+          "name": "SteeringWheel_LOD1",
+          "triangles": 306,
+          "readerWorldPosition": "0.488612,1.11963,1.11974"
+        },
+        {
+          "name": "Boot_LOD1",
+          "triangles": 684,
+          "readerWorldPosition": "4.239e-07,1.06546,-3.01929"
+        },
+        {
+          "name": "Door_L_LOD1",
+          "triangles": 466,
+          "readerWorldPosition": "0.967792,0.856512,0.820065"
+        },
+        {
+          "name": "Exhaust_L",
+          "triangles": 948,
+          "readerWorldPosition": "0.423105,-0.00170348,-0.440751"
+        },
+        {
+          "name": "Wing_R_LOD1",
+          "triangles": 206,
+          "readerWorldPosition": "-0.945015,0.550632,1.96455"
+        },
+        {
+          "name": "Wing_L_LOD1",
+          "triangles": 203,
+          "readerWorldPosition": "0.949582,0.550632,1.96455"
+        },
+        {
+          "name": "Hood_LOD1",
+          "triangles": 186,
+          "readerWorldPosition": "0.00228283,0.756632,1.96174"
+        },
+        {
+          "name": "Body_LOD1",
+          "triangles": 5954,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Body_LOD2",
+          "triangles": 4101,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Interior_LOD1",
+          "triangles": 2363,
+          "readerWorldPosition": "0.0128992,0.957195,1.03263"
+        },
+        {
+          "name": "Door_R_LOD1",
+          "triangles": 466,
+          "readerWorldPosition": "-0.965917,0.856512,0.820065"
+        },
+        {
+          "name": "D_Engine",
+          "triangles": 0,
+          "readerWorldPosition": "-0.0155755,0.57542,1.72804"
+        },
+        {
+          "name": "Bullbar_F_LOD1",
+          "triangles": 732,
+          "readerWorldPosition": "0,0.278559,2.23534"
+        },
+        {
+          "name": "Bumper_F",
+          "triangles": 728,
+          "readerWorldPosition": "0.00228366,0.0595112,2.05267"
+        },
+        {
+          "name": "J_Bumper_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.899419,0.0790702,2.08127"
+        },
+        {
+          "name": "D_Exhaust_L_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "1.07616,0.0338025,-2.56111"
+        }
+      ],
+      "p3d": "Cars/CLASSIC/Icecream_Van/Icecream_Van.P3D.XML",
+      "p3dSha256": "8ED0F9A585F5C399B198F2EBA84169A9159220E0022BC03D94191662F13DF46A",
+      "geometryPath": "Sources:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Icecream_Van.FBX",
+      "discard": [
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM"
+        }
+      ],
+      "physics": [
+        {
+          "asset-ref": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "type": "convex"
+        }
+      ],
+      "psi": "Cars/CLASSIC/Icecream_Van/Icecream_Van.PSI.XML",
+      "psiSha256": "6DAF822C4BE21CD5D9A1B13451B439E94DB23D6635974B90B0F8C60B78944AC1",
+      "bindings": [
+        {
+          "mesh": "Boot",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Mirror_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Optics_R_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Wing_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Wing_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Wing_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Wing_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "2",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\UnderVan.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "2",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\UnderVan.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\COMMON\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Props_2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Lightpod",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Lightpod",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Engine",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Engine.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_F_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bumper_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "geometry": "0",
+          "physical_material": "Assets:/PhysicalMaterial/CCAMCBLOCK.PMC.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_F.FBX",
+      "bytes": 457408,
+      "sha256": "B0175135559810675DF7E6D77D7455EE9B567A45D59FBE5711CBF343DC439045",
+      "trianglesAllNodesIncludingLodsAndCollision": 11734,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 80,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 1440,
+          "readerWorldPosition": "0,2.38419e-07,-2.38419e-07"
+        },
+        {
+          "name": "Rim_C",
+          "triangles": 4165,
+          "readerWorldPosition": "0,2.38419e-07,-2.38419e-07"
+        },
+        {
+          "name": "Rim_B",
+          "triangles": 4165,
+          "readerWorldPosition": "0,2.38419e-07,-2.38419e-07"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 1560,
+          "readerWorldPosition": "0,2.38419e-07,-2.38419e-07"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "-0.0131288,0,0"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "0,2.38419e-07,-2.38419e-07"
+        }
+      ],
+      "p3d": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_F.P3D.XML",
+      "p3dSha256": "ABDF250D42AF2A668E59A45189079F5C5F2EAA46E5C4A7F57DBA97D9D7438741",
+      "geometryPath": "Sources:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Icecream_Van_Wheel_F.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_F.PSI.XML",
+      "psiSha256": "03DECEA0508DA22687C8BDA0F400524C675C7ECBEB340086F90800AF0C598771",
+      "bindings": [
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/Tyre.PMA.XML"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/TYRE.PMA.XML"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/LOD.PMA.XML"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/Tyre.PMA.XML"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/Tyre.PMA.XML"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/TYRE.PMA.XML"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "isGeometryTwoSided": "true",
+          "material": "ASSETS:/GRAPH/CARS/CLASSIC/ICECREAM_VAN/LOD.PMA.XML"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_R.FBX",
+      "bytes": 794976,
+      "sha256": "61F8B6E4BA065C53C3A94BB6EA7BD1466FB2F89396913845B6B5025690E37AF6",
+      "trianglesAllNodesIncludingLodsAndCollision": 22826,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Particle View 001",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 80,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 11211,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 11211,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "0,-3.20227e-31,-1.44217e-15"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "0,-3.20227e-31,-1.44217e-15"
+        }
+      ],
+      "p3d": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_R.P3D.XML",
+      "p3dSha256": "90926A2A8262D97B7462D0481476CACEF818E110ABFF738AEF6614351527E253",
+      "geometryPath": "Sources:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Icecream_Van_Wheel_R.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/CLASSIC/Icecream_Van/Icecream_Van_Wheel_R.PSI.XML",
+      "psiSha256": "7E97E6334EB90D2209EAE53488B105D28ACAAEAD8DB7AB7B1D7AA16329EDAE8E",
+      "bindings": [
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\CLASSIC\\Icecream_Van\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo.FBX",
+      "bytes": 2649424,
+      "sha256": "224260C690C547526FE461245F2B6B5959D4A5F3801E15449FDA9C1A18A9C529",
+      "trianglesAllNodesIncludingLodsAndCollision": 62820,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "D_Main",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "SteeringWheel",
+          "triangles": 668,
+          "readerWorldPosition": "0.56646,0.712895,0.605721"
+        },
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "triangles": 36,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Engine",
+          "triangles": 7735,
+          "readerWorldPosition": "-0.0261559,0.513875,1.70597"
+        },
+        {
+          "name": "Body",
+          "triangles": 12505,
+          "readerWorldPosition": "4.11068e-06,0,0"
+        },
+        {
+          "name": "Hood",
+          "triangles": 790,
+          "readerWorldPosition": "4.11272e-06,0.791497,1.76707"
+        },
+        {
+          "name": "Bullbar_F",
+          "triangles": 1190,
+          "readerWorldPosition": "4.05312e-06,0.1771,1.93653"
+        },
+        {
+          "name": "Bullbar_RR",
+          "triangles": 256,
+          "readerWorldPosition": "4.05312e-06,0.0750416,-1.89183"
+        },
+        {
+          "name": "Optics_FL",
+          "triangles": 364,
+          "readerWorldPosition": "0.538066,0.451596,2.37125"
+        },
+        {
+          "name": "Optics_FR",
+          "triangles": 364,
+          "readerWorldPosition": "-0.538058,0.451596,2.37125"
+        },
+        {
+          "name": "Optics_RL",
+          "triangles": 238,
+          "readerWorldPosition": "0.911385,0.674033,-2.65835"
+        },
+        {
+          "name": "D_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.888964,0.65915,-2.64536"
+        },
+        {
+          "name": "J_Boot_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.874659,0.642151,-2.63909"
+        },
+        {
+          "name": "D_Bullbar_RL",
+          "triangles": 0,
+          "readerWorldPosition": "1.27633,0.110847,-2.70115"
+        },
+        {
+          "name": "D_Bullbar_RR",
+          "triangles": 0,
+          "readerWorldPosition": "-1.27633,0.121227,-2.6861"
+        },
+        {
+          "name": "D_Bullbar_FL",
+          "triangles": 0,
+          "readerWorldPosition": "1.31336,0.0382988,2.73548"
+        },
+        {
+          "name": "D_Bullbar_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-1.31214,0.0364367,2.74839"
+        },
+        {
+          "name": "J_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.97529,0.530483,0.880293"
+        },
+        {
+          "name": "J_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.972968,0.536788,0.878476"
+        },
+        {
+          "name": "J_Hood_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.8688,0.83438,1.21342"
+        },
+        {
+          "name": "J_Hood_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.868803,0.83548,1.21219"
+        },
+        {
+          "name": "D_Calander_Position",
+          "triangles": 0,
+          "readerWorldPosition": "0.0044361,0.443475,2.35861"
+        },
+        {
+          "name": "D_Optics_FL",
+          "triangles": 0,
+          "readerWorldPosition": "0.538829,0.465421,2.35422"
+        },
+        {
+          "name": "D_Optics_FR",
+          "triangles": 0,
+          "readerWorldPosition": "-0.53883,0.465421,2.35445"
+        },
+        {
+          "name": "P_Hardcases",
+          "triangles": 2240,
+          "readerWorldPosition": "-0.0369668,0.819054,-1.8978"
+        },
+        {
+          "name": "P_Footboard",
+          "triangles": 904,
+          "readerWorldPosition": "4.11272e-06,0.0448557,-2.56542"
+        },
+        {
+          "name": "Glass_F",
+          "triangles": 12,
+          "readerWorldPosition": "4.11272e-06,1.1493,0.774465"
+        },
+        {
+          "name": "P_Pulley",
+          "triangles": 2909,
+          "readerWorldPosition": "0.00206184,-0.0835065,2.60168"
+        },
+        {
+          "name": "Frame_F",
+          "triangles": 424,
+          "readerWorldPosition": "-5.48892e-06,-0.195527,1.92757"
+        },
+        {
+          "name": "Frame_R",
+          "triangles": 871,
+          "readerWorldPosition": "-5.48892e-06,-0.187687,-0.249835"
+        },
+        {
+          "name": "Door_L",
+          "triangles": 1012,
+          "readerWorldPosition": "0.917193,0.798396,0.298552"
+        },
+        {
+          "name": "Door_R",
+          "triangles": 1021,
+          "readerWorldPosition": "-0.917184,0.798396,0.298552"
+        },
+        {
+          "name": "Interior",
+          "triangles": 6610,
+          "readerWorldPosition": "4.11272e-06,0.748692,0.0208818"
+        },
+        {
+          "name": "Glass_F_Break",
+          "triangles": 20,
+          "readerWorldPosition": "0.383517,1.14951,0.774344"
+        },
+        {
+          "name": "Glass_B",
+          "triangles": 2,
+          "readerWorldPosition": "4.11272e-06,1.31616,-1.2256"
+        },
+        {
+          "name": "Glass_B_Break",
+          "triangles": 35,
+          "readerWorldPosition": "4.11272e-06,1.31616,-1.2256"
+        },
+        {
+          "name": "D_Exhaust_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.248661,0.190704,-1.098"
+        },
+        {
+          "name": "D_Exhaust_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.242182,0.187559,-1.09522"
+        },
+        {
+          "name": "D_Foot_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.366597,0.238424,0.869021"
+        },
+        {
+          "name": "D_Foot_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.563203,0.243883,0.876091"
+        },
+        {
+          "name": "D_Reference_Pilot",
+          "triangles": 0,
+          "readerWorldPosition": "0.586796,0.357445,0.216778"
+        },
+        {
+          "name": "Boot",
+          "triangles": 886,
+          "readerWorldPosition": "-0.0375336,0.529888,-2.60512"
+        },
+        {
+          "name": "Calander",
+          "triangles": 964,
+          "readerWorldPosition": "4.11272e-06,0.495467,2.42492"
+        },
+        {
+          "name": "D_B_Bullbar_F",
+          "triangles": 0,
+          "readerWorldPosition": "4.05312e-06,0.1771,1.93653"
+        },
+        {
+          "name": "D_B_Bullbar_R",
+          "triangles": 0,
+          "readerWorldPosition": "4.05312e-06,0.0750416,-1.89183"
+        },
+        {
+          "name": "D_B_Calander",
+          "triangles": 0,
+          "readerWorldPosition": "4.11272e-06,0.495467,2.47282"
+        },
+        {
+          "name": "D_B_Door_L",
+          "triangles": 0,
+          "readerWorldPosition": "1.00676,0.798396,0.292203"
+        },
+        {
+          "name": "D_B_Door_R",
+          "triangles": 0,
+          "readerWorldPosition": "-0.969435,0.778259,0.282527"
+        },
+        {
+          "name": "D_B_Optics_RL",
+          "triangles": 0,
+          "readerWorldPosition": "0.911385,0.674033,-2.65835"
+        },
+        {
+          "name": "Bullbar_RL",
+          "triangles": 256,
+          "readerWorldPosition": "4.05312e-06,0.0750416,-1.89183"
+        },
+        {
+          "name": "D_Hand_R",
+          "triangles": 0,
+          "readerWorldPosition": "0.336163,0.808819,0.50173"
+        },
+        {
+          "name": "D_Hand_L",
+          "triangles": 0,
+          "readerWorldPosition": "0.821345,0.805054,0.512371"
+        },
+        {
+          "name": "D_Engine",
+          "triangles": 0,
+          "readerWorldPosition": "-0.0261559,0.513875,1.70597"
+        },
+        {
+          "name": "Body_LOD1",
+          "triangles": 4061,
+          "readerWorldPosition": "4.11068e-06,0,0"
+        },
+        {
+          "name": "Body_LOD2",
+          "triangles": 4156,
+          "readerWorldPosition": "4.11068e-06,0,0"
+        },
+        {
+          "name": "Hood_LOD1",
+          "triangles": 242,
+          "readerWorldPosition": "4.11272e-06,0.791497,1.76707"
+        },
+        {
+          "name": "Bullbar_F_LOD1",
+          "triangles": 472,
+          "readerWorldPosition": "4.05312e-06,0.1771,1.93653"
+        },
+        {
+          "name": "Bullbar_RR_LOD1",
+          "triangles": 72,
+          "readerWorldPosition": "4.05312e-06,0.0750416,-1.89183"
+        },
+        {
+          "name": "P_Footboard_LOD1",
+          "triangles": 424,
+          "readerWorldPosition": "4.11272e-06,0.0448557,-2.56542"
+        },
+        {
+          "name": "Spring_FR",
+          "triangles": 2254,
+          "readerWorldPosition": "0,0.133555,1.86826"
+        },
+        {
+          "name": "Springs_FL",
+          "triangles": 2254,
+          "readerWorldPosition": "0,0.133555,1.86826"
+        },
+        {
+          "name": "Spring_RL",
+          "triangles": 2184,
+          "readerWorldPosition": "0,0.137702,-1.98216"
+        },
+        {
+          "name": "Spring_RR",
+          "triangles": 2184,
+          "readerWorldPosition": "0,0.137702,-1.98216"
+        },
+        {
+          "name": "Door_L_LOD1",
+          "triangles": 133,
+          "readerWorldPosition": "0.917193,0.798396,0.298552"
+        },
+        {
+          "name": "Door_R_LOD1",
+          "triangles": 131,
+          "readerWorldPosition": "-0.917184,0.798396,0.298552"
+        },
+        {
+          "name": "Exhaust_L",
+          "triangles": 722,
+          "readerWorldPosition": "0.409311,0.0195454,-1.88934"
+        },
+        {
+          "name": "Exhaust_R",
+          "triangles": 722,
+          "readerWorldPosition": "-0.409311,0.0195454,-1.88934"
+        },
+        {
+          "name": "Boot_LOD1",
+          "triangles": 194,
+          "readerWorldPosition": "-0.0369933,0.529873,-2.59592"
+        },
+        {
+          "name": "Calander_LOD1",
+          "triangles": 231,
+          "readerWorldPosition": "4.11272e-06,0.495467,2.42492"
+        },
+        {
+          "name": "Bullbar_RL_LOD1",
+          "triangles": 72,
+          "readerWorldPosition": "4.05312e-06,0.0750416,-1.89183"
+        },
+        {
+          "name": "D_Exhaust_L_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.52866,0.0919221,-2.73209"
+        },
+        {
+          "name": "D_Exhaust_L2_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "0.531392,-0.100158,-2.73209"
+        },
+        {
+          "name": "D_Exhaust_R_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.53517,-0.0966328,-2.73209"
+        },
+        {
+          "name": "D_Exhaust_R2_Flash",
+          "triangles": 0,
+          "readerWorldPosition": "-0.533857,0.0861186,-2.73209"
+        }
+      ],
+      "p3d": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo.P3D.XML",
+      "p3dSha256": "BCC95EEA45D3B3498392CC9BBC8F892E462F160A68B42F180860B6A5D3E8B070",
+      "geometryPath": "Sources:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Jeep_Evo.FBX",
+      "discard": [
+        {
+          "name": "Convex_$PHYS_$CBLOCK_$CCAM"
+        }
+      ],
+      "physics": [
+        {
+          "asset-ref": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "type": "convex"
+        }
+      ],
+      "psi": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo.PSI.XML",
+      "psiSha256": "89DB5DE31F3DA49CF87C04C1897EFC73E88BB934A4622121164C9C6D05008388",
+      "bindings": [
+        {
+          "mesh": "Engine",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Engine.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body",
+          "geometry": "1",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Body_LOD2",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\COMMON\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Hood_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_F_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_RR",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_RR_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FL",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Optics_F.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_FR",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Optics_F_AB.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Optics_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Optics_R.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Hardcases",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Props.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Footboard",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Footboard_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "P_Pulley",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_F",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_FR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Springs_FL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Frame_R",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RL",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Spring_RR",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Springs.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_L_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R",
+          "geometry": "2",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Door_R_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Interior",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_F_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Glass_B_Break",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD_GLASS.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_L",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Exhaust_R",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Boot_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Calander_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_RL",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Bullbar_RL_LOD1",
+          "geometry": "0",
+          "material": "ASSETS:/GRAPH\\CARS\\LOAD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "SteeringWheel",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Interior.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Convex_$PHYS_$CBLOCK_$CCAM",
+          "geometry": "0",
+          "physical_material": "Assets:/PhysicalMaterial/CCAMCBLOCK.PMC.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    },
+    {
+      "source": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo_Wheel.FBX",
+      "bytes": 318128,
+      "sha256": "7016FAB96FC4EF6128AFB0876CD13C02BD37EFCA10764C1D1A4C44C050C05F28",
+      "trianglesAllNodesIncludingLodsAndCollision": 6662,
+      "nodes": [
+        {
+          "name": "",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Particle View 001",
+          "triangles": 0,
+          "readerWorldPosition": "6.3374e-09,-0.0957804,0.144983"
+        },
+        {
+          "name": "Wheel_Root",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Brake",
+          "triangles": 294,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_C",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Wheel_B",
+          "triangles": 0,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C",
+          "triangles": 1288,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_C",
+          "triangles": 1734,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Rim_B",
+          "triangles": 1734,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B",
+          "triangles": 1288,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_C_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "0,0,0"
+        },
+        {
+          "name": "Tyre_B_LOD1",
+          "triangles": 162,
+          "readerWorldPosition": "0,0,0"
+        }
+      ],
+      "p3d": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo_Wheel.P3D.XML",
+      "p3dSha256": "6CADBDAAAAC47A57F9BF9C54A5256FF189A7726374AB7B719BCFBE39234F3D0D",
+      "geometryPath": "Sources:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Jeep_Evo_Wheel.FBX",
+      "discard": [],
+      "physics": [],
+      "psi": "Cars/ALLSTARS/Jeep_Evo/Jeep_Evo_Wheel.PSI.XML",
+      "psiSha256": "880E8C08694A6C255F3686620D5F189DD06F357981EC3F819C6BEA3D1C747D1F",
+      "bindings": [
+        {
+          "mesh": "Brake",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_C",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Rim_B",
+          "geometry": "1",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\Tyre.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_B_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        },
+        {
+          "mesh": "Tyre_C_LOD1",
+          "geometry": "0",
+          "material": "Assets:/GRAPH\\Cars\\ALLSTARS\\Jeep_Evo\\LOD.PMA.XML",
+          "isGeometryTwoSided": "true"
+        }
+      ],
+      "bindingNodesMissingFromFbx": []
+    }
+  ]
+}

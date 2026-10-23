@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureSettings>
+	<Compressions>
+		<Platform Name="GENERIC">
+			<Compression From="COMPRESS_ALPHA" To="DXT5" />
+			<Compression From="COMPRESS_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="NO_COMPRESS_ALPHA" To="RGBA" />
+			<Compression From="NO_COMPRESS_NO_ALPHA" To="RGBA" />
+			<Compression From="NORMALS" To="DXT1_NOALPHA" />
+			<Compression From="GUI" To="DXT5" />
+			<Compression From="GUI_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="HDR" To="DXT5" />
+		</Platform>
+		<Platform Name="PC">
+			<Compression From="COMPRESS_ALPHA" To="DXT5" />
+			<Compression From="COMPRESS_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="NO_COMPRESS_ALPHA" To="RGBA" />
+			<Compression From="NO_COMPRESS_NO_ALPHA" To="RGBA" />
+			<Compression From="NORMALS" To="DXT5_XGXR" />
+			<Compression From="GUI" To="DXT5" />
+			<Compression From="GUI_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="HDR" To="DXT5" />
+		</Platform>
+		<Platform Name="PS4">
+			<Compression From="COMPRESS_ALPHA" To="DXT5" />
+			<Compression From="COMPRESS_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="NO_COMPRESS_ALPHA" To="RGBA" />
+			<Compression From="NO_COMPRESS_NO_ALPHA" To="RGBA" />
+			<Compression From="NORMALS" To="DXT5_XGXR" />
+			<Compression From="GUI" To="DXT5" />
+			<Compression From="GUI_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="HDR" To="DXT5" />
+		</Platform>
+		<Platform Name="XBOXONE">
+			<Compression From="COMPRESS_ALPHA" To="DXT5" />
+			<Compression From="COMPRESS_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="NO_COMPRESS_ALPHA" To="RGBA" />
+			<Compression From="NO_COMPRESS_NO_ALPHA" To="RGBA" />
+			<Compression From="NORMALS" To="DXT5_XGXR" />
+			<Compression From="GUI" To="DXT5" />
+			<Compression From="GUI_NO_ALPHA" To="DXT1_NOALPHA" />
+			<Compression From="HDR" To="DXT5" />
+		</Platform>
+	</Compressions>
+</TextureSettings>
